@@ -1,0 +1,382 @@
+{
+  "id": "sun-cube-flipper",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@cube_flipper Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_535d917742a5",
+    "display_name": "cube_flipper",
+    "user_id": "@cube_flipper",
+    "description": "Community Archive-derived proof-of-search sun for @cube_flipper.",
+    "document_count": 6781,
+    "word_count": 151721,
+    "active_days": 883,
+    "emissions": [
+      "Algekalipso",
+      "Which",
+      "Think",
+      "Time",
+      "Nickcammarata",
+      "Might"
+    ],
+    "generated_at": "2026-06-27T15:46:43.999888+00:00",
+    "color": "#f59e0b",
+    "mass": 11.93
+  },
+  "planets": [
+    {
+      "id": "planet_40c121b1bf92",
+      "name": "Algekalipso",
+      "summary": "Archive cluster around algekalipso: 5329 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "algekalipso",
+        "thing",
+        "see",
+        "these",
+        "here"
+      ],
+      "artifacts": [
+        {
+          "id": "art_d2c5d858bde6",
+          "title": "Algekalipso receipt from 2024-09-26",
+          "excerpt": "it is a 32-bit qualia computer :V (see thread for explanation) https://t.co/KGx47c798i",
+          "source_document_id": "1839436335150707006",
+          "timestamp": "2024-09-26T22:46:12+00:00",
+          "url": "https://x.com/cube_flipper/status/1839436335150707006",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: algekalipso, thing, see, these."
+        },
+        {
+          "id": "art_4136ac839e62",
+          "title": "Algekalipso receipt from 2024-07-19",
+          "excerpt": "new post this friday afternoon, covering the future of operating systems, programming languages, and brain-computer interfaces https://t.co/95CcOSj7kq",
+          "source_document_id": "1814437243890606422",
+          "timestamp": "2024-07-19T23:08:44+00:00",
+          "url": "https://x.com/cube_flipper/status/1814437243890606422",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: algekalipso, thing, see, these."
+        },
+        {
+          "id": "art_39f5fd64f0d1",
+          "title": "Algekalipso receipt from 2022-10-12",
+          "excerpt": "i am very lazy and do not meditate. i wants the jhana helmet",
+          "source_document_id": "1580035191518613505",
+          "timestamp": "2022-10-12T03:18:39+00:00",
+          "url": "https://x.com/cube_flipper/status/1580035191518613505",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: algekalipso, thing, see, these."
+        },
+        {
+          "id": "art_6a35e576df47",
+          "title": "Algekalipso receipt from 2025-07-26",
+          "excerpt": "extremely good morning:\n\n- wake up at noon\n- immediately slam a room temperature white Monster Zero\n- get back into bed, write for several hours while my brain is a blank slate\n\nonce again i am finding that the least \"healthy\" practices are the most productive...",
+          "source_document_id": "1949105619392463008",
+          "timestamp": "2025-07-26T13:52:46+00:00",
+          "url": "https://x.com/cube_flipper/status/1949105619392463008",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: algekalipso, thing, see, these."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_01daee5c35a4",
+      "proof_score": 1,
+      "mass": 34.646,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_dc49603b9d27",
+      "name": "Which",
+      "summary": "Archive cluster around which: 469 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "which",
+        "think",
+        "might",
+        "way",
+        "experience"
+      ],
+      "artifacts": [
+        {
+          "id": "art_56072d8f8476",
+          "title": "Which receipt from 2025-06-08",
+          "excerpt": "my bayesian brain theory of humour is that a joke is an incoming prediction error which rather than increasing the complexity of your internal models actually reduces their complexity by a surprising degree. i don't think the apples-potatoes joke actually does this https://t.co/kNWtX58m3P",
+          "source_document_id": "1931507992790462957",
+          "timestamp": "2025-06-08T00:26:05+00:00",
+          "url": "https://x.com/cube_flipper/status/1931507992790462957",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: which, think, might, way."
+        },
+        {
+          "id": "art_57da4d3f8d23",
+          "title": "Which receipt from 2025-03-22",
+          "excerpt": "have you ever had a psychedelic experience which resembled this, be it aesthetically or at least in an abstract sense? https://t.co/R7MYNmFe6F",
+          "source_document_id": "1903549066728104145",
+          "timestamp": "2025-03-22T20:47:18+00:00",
+          "url": "https://x.com/cube_flipper/status/1903549066728104145",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: which, think, might, way."
+        },
+        {
+          "id": "art_74a5dddea8fb",
+          "title": "Which receipt from 2024-09-26",
+          "excerpt": "new post this afternoon, riffing on @slatestarcodex’s classic \"Universal Love, Said The Cactus Person\", proposing an experiment which recruits DMT visuals to perform computation. no entities were harmed (or asked to do math) in the making of this blog post https://t.co/Y7YaquqvGX",
+          "source_document_id": "1839436810432487751",
+          "timestamp": "2024-09-26T22:48:05+00:00",
+          "url": "https://x.com/cube_flipper/status/1839436810432487751",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: which, think, might, way."
+        },
+        {
+          "id": "art_0b21b85d9682",
+          "title": "Which receipt from 2024-10-19",
+          "excerpt": "next on the reading list: Shuffle Brain by Paul Pietsch. i believe it was recommended to me as detailing a series of salamander experiments conducted in the seventies which lead the author to stumble upon something akin to @drmichaellevin's bioelectric fields (maybe) https://t.co/NH234ZiPdA",
+          "source_document_id": "1847485255042945498",
+          "timestamp": "2024-10-19T03:49:44+00:00",
+          "url": "https://x.com/cube_flipper/status/1847485255042945498",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: which, think, might, way."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_0bce47152233",
+      "proof_score": 0.965,
+      "mass": 29.696,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_0b3275f77b63",
+      "name": "Think",
+      "summary": "Archive cluster around think: 368 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "don",
+        "might",
+        "something",
+        "field"
+      ],
+      "artifacts": [
+        {
+          "id": "art_4f75670d48ba",
+          "title": "Think receipt from 2023-08-01",
+          "excerpt": "i have a new post out today – it's all about ketamine and the Bayesian brain theory. it covers ketamine pharmacology and phenomenology from the ground up, as well as why i think it can be such an effective therapeutic tool. https://t.co/bzRSHEQZL3",
+          "source_document_id": "1686468845203226626",
+          "timestamp": "2023-08-01T20:08:00+00:00",
+          "url": "https://x.com/cube_flipper/status/1686468845203226626",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, might, something."
+        },
+        {
+          "id": "art_468708dfe15a",
+          "title": "Think receipt from 2023-10-07",
+          "excerpt": "if consciousness has a refresh rate, what do you think it is?",
+          "source_document_id": "1710541139684827395",
+          "timestamp": "2023-10-07T06:22:42+00:00",
+          "url": "https://x.com/cube_flipper/status/1710541139684827395",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, might, something."
+        },
+        {
+          "id": "art_09785a9aecc5",
+          "title": "Think receipt from 2024-11-04",
+          "excerpt": "i think it is generally good to limit the number of health-related things to be neurotic about https://t.co/Tuil7ieSUE",
+          "source_document_id": "1853316632992760155",
+          "timestamp": "2024-11-04T06:01:32+00:00",
+          "url": "https://x.com/cube_flipper/status/1853316632992760155",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, might, something."
+        },
+        {
+          "id": "art_1983310f8c5a",
+          "title": "Think receipt from 2024-11-24",
+          "excerpt": "i think this is what excessively high sensory clarity looks like https://t.co/M4AyxUHXtS",
+          "source_document_id": "1860737181842890756",
+          "timestamp": "2024-11-24T17:28:09+00:00",
+          "url": "https://x.com/cube_flipper/status/1860737181842890756",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, might, something."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_0fe34b4846e8",
+      "proof_score": 0.941,
+      "mass": 28.011,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_3180ee7b9d3b",
+      "name": "Time",
+      "summary": "Archive cluster around time: 226 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "time",
+        "around",
+        "first",
+        "spent",
+        "something"
+      ],
+      "artifacts": [
+        {
+          "id": "art_98e824fbf9dc",
+          "title": "Time receipt from 2024-11-17",
+          "excerpt": "alright, it has been a while, so it is DMT trip report time",
+          "source_document_id": "1857996720489046109",
+          "timestamp": "2024-11-17T03:58:32+00:00",
+          "url": "https://x.com/cube_flipper/status/1857996720489046109",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, around, first, spent."
+        },
+        {
+          "id": "art_c9802bb1acd9",
+          "title": "Time receipt from 2025-04-05",
+          "excerpt": "@RichDecibels the first time i took DMT i was like \"hey i get how typefaces work now\"",
+          "source_document_id": "1908593622121144520",
+          "timestamp": "2025-04-05T18:52:34+00:00",
+          "url": "https://x.com/cube_flipper/status/1908593622121144520",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, around, first, spent."
+        },
+        {
+          "id": "art_db82e2b4d1c8",
+          "title": "Time receipt from 2025-04-05",
+          "excerpt": "@RichDecibels my impression was totally prelinguistic at the time but i started thinking about it again years later... well you see there are a lot of fixation points and energy minimising curves between those https://t.co/mLypU3WOmu",
+          "source_document_id": "1908595007046771189",
+          "timestamp": "2025-04-05T18:58:04+00:00",
+          "url": "https://x.com/cube_flipper/status/1908595007046771189",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, around, first, spent."
+        },
+        {
+          "id": "art_c89c5ba72152",
+          "title": "Time receipt from 2025-06-18",
+          "excerpt": "having a nice time in appalachia soaking in the unfamiliar north american biome :3 https://t.co/gEtwfuzEEd",
+          "source_document_id": "1935420558671278355",
+          "timestamp": "2025-06-18T19:33:14+00:00",
+          "url": "https://x.com/cube_flipper/status/1935420558671278355",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, around, first, spent."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_fa6b0a93034b",
+      "proof_score": 0.892,
+      "mass": 26.574,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_2b18d7f4e138",
+      "name": "Nickcammarata",
+      "summary": "Archive cluster around nickcammarata: 233 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "nickcammarata",
+        "nosilverv",
+        "could",
+        "richardmcngo",
+        "valence"
+      ],
+      "artifacts": [
+        {
+          "id": "art_2dc99d33602e",
+          "title": "Nickcammarata receipt from 2023-10-28",
+          "excerpt": "@nickcammarata i count myself quite lucky that when weed gave me a week long dissociative episode in my early 20s i just thought it was awesome",
+          "source_document_id": "1718333920201281979",
+          "timestamp": "2023-10-28T18:28:26+00:00",
+          "url": "https://x.com/cube_flipper/status/1718333920201281979",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: nickcammarata, nosilverv, could, richardmcngo."
+        },
+        {
+          "id": "art_4c60ae8f8aef",
+          "title": "Nickcammarata receipt from 2023-10-28",
+          "excerpt": "@nickcammarata i remember https://t.co/8jqEvJRtUU ran a survey of how people wound up there and cannabis was by far the most common route",
+          "source_document_id": "1718334171121340916",
+          "timestamp": "2023-10-28T18:29:26+00:00",
+          "url": "https://x.com/cube_flipper/status/1718334171121340916",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: nickcammarata, nosilverv, could, richardmcngo."
+        },
+        {
+          "id": "art_f0b00812eeec",
+          "title": "Nickcammarata receipt from 2023-09-21",
+          "excerpt": "@nickcammarata can confirm the PR's been merged",
+          "source_document_id": "1704675848488460777",
+          "timestamp": "2023-09-21T01:56:08+00:00",
+          "url": "https://x.com/cube_flipper/status/1704675848488460777",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: nickcammarata, nosilverv, could, richardmcngo."
+        },
+        {
+          "id": "art_3b90175f69a0",
+          "title": "Nickcammarata receipt from 2024-12-01",
+          "excerpt": "@nickcammarata a few years back a friend of a friend had secret beta access to gpt-3 and we sat around at a party reading out poetry it generated and i felt like i was the only person in the room who felt that everything it wrote was just the corniest garbage ever",
+          "source_document_id": "1863322233592262813",
+          "timestamp": "2024-12-01T20:40:13+00:00",
+          "url": "https://x.com/cube_flipper/status/1863322233592262813",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: nickcammarata, nosilverv, could, richardmcngo."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_32592ad24e21",
+      "proof_score": 0.896,
+      "mass": 25.386,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_d33d2ee578be",
+      "name": "Might",
+      "summary": "Archive cluster around might: 156 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "might",
+        "something",
+        "well",
+        "here",
+        "see"
+      ],
+      "artifacts": [
+        {
+          "id": "art_21f3eaf95a9e",
+          "title": "Might receipt from 2023-11-17",
+          "excerpt": "hi all, i'd like to welcome someone to twitter whose work many of us might already know – my friend @RogerThisdell, meditator and phenomenologist, has signed up here~",
+          "source_document_id": "1725617245089607987",
+          "timestamp": "2023-11-17T20:49:46+00:00",
+          "url": "https://x.com/cube_flipper/status/1725617245089607987",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: might, something, well, here."
+        },
+        {
+          "id": "art_40892e873972",
+          "title": "Might receipt from 2024-09-14",
+          "excerpt": "i keep seeing brandon's gorgeous LLM dataviz hit the timeline and now i'm wondering what might happen if we asked an LLM to take virtual MDMA. would we observe a global increase in symmetry in the activations? https://t.co/ARK6VwmUIN",
+          "source_document_id": "1834989850262749606",
+          "timestamp": "2024-09-14T16:17:27+00:00",
+          "url": "https://x.com/cube_flipper/status/1834989850262749606",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: might, something, well, here."
+        },
+        {
+          "id": "art_0db678888993",
+          "title": "Might receipt from 2024-10-14",
+          "excerpt": "wondering what any bioelectric fields around this thing might look like https://t.co/2SBLA2Li5r",
+          "source_document_id": "1845927302057939338",
+          "timestamp": "2024-10-14T20:38:59+00:00",
+          "url": "https://x.com/cube_flipper/status/1845927302057939338",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: might, something, well, here."
+        },
+        {
+          "id": "art_0ee2243a6b28",
+          "title": "Might receipt from 2025-07-06",
+          "excerpt": "also posting here in the small hope there's an OCD specialist or meditation teacher here on twitter who might be able to recommend something that could help.",
+          "source_document_id": "1942002770304754078",
+          "timestamp": "2025-07-06T23:28:35+00:00",
+          "url": "https://x.com/cube_flipper/status/1942002770304754078",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: might, something, well, here."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_afd8e2e396cf",
+      "proof_score": 0.856,
+      "mass": 25.584,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
